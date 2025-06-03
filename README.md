@@ -50,12 +50,12 @@ I'm a **passionate Frontend Developer from India** 🇮🇳 with a diverse skill
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nontkph&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nontkph&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nontkph&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🎯 What I'm Working On
@@ -87,7 +87,7 @@ const currentFocus = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=redical&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nontkph&theme=redical&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
 ## 🌟 Experience Highlights
@@ -117,7 +117,7 @@ const currentFocus = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nontkph&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
   
   ⭐ **Don't forget to star my repositories if you find them useful!** ⭐
 </div>
