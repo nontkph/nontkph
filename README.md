@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Miu TH!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Frontend+Developer+from+Thailand+%F0%9F%87%AE%F0%9F%87%B3;Roblox+Creator+%7C+Luau+Specialist;Bot+Developer+%7C+Problem+Solver; Full-Stack+Developer+%7C+UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Frontend+Developer+from+Thailand+%F0%9F%87%AE%F0%9F%87%B3;Roblox+Creator+%7C+Luau+Specialist;Bot+Developer+%7C+Problem+Solver;Full-Stack+Developer+%7C+UI%2FUX+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🎭 About Me
