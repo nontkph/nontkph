@@ -93,7 +93,7 @@ const currentFocus = {
 ## 🌟 Experience Highlights
 
 🎨 **Frontend Specialist** with passion for user experience  
-🇮🇳 **Indian Developer** contributing to global tech community  
+🇮🇳 **Thailand Developer** contributing to global tech community  
 🏆 **5-7 Years** of backend development experience  
 🧩 **Problem-solving** expertise across multiple domains  
 🚀 **Full-stack capabilities** from UI to database  
