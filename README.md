@@ -106,7 +106,7 @@ const currentFocus = {
 
 [![YouTube](https://img.shields.io/badge/YouTube-Miu_TH-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@MiuTH)
 [![Discord](https://img.shields.io/badge/Discord-rexel-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/856819327524012033)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nontkphh)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nontkph)
 
 </div>
 
