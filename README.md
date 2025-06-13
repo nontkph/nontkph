@@ -47,17 +47,6 @@ I'm a **passionate Frontend Developer from India** 🇮🇳 with a diverse skill
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nontkph&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nontkph&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nontkph&theme=radical" alt="GitHub Streak" />
-</div>
-
 ## 🎯 What I'm Working On
 
 ```javascript
