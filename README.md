@@ -11,7 +11,6 @@
 I'm a **passionate Frontend Developer from India** 🇮🇳 with a diverse skill set! I specialize in creating stunning user interfaces while also diving deep into **Roblox Studio** development and building intelligent automation solutions.
 
 - 🎨 **Frontend Developer** crafting beautiful and responsive UIs
-- 🇮🇳 **Based in Thailand** - bringing global perspective to local innovation
 - 🎮 **Roblox Developer** specializing in **Luau** scripting
 - 🤖 **Bot Developer** creating automation solutions
 - 🌐 **Full-Stack** capabilities with strong backend experience (5-7 years)
